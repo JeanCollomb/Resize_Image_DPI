@@ -5,8 +5,10 @@ The goal is to resize  images in a folder based on a desired DPI.
 
 ## How it works
 
-* Put the script in the folder with images to convert
-* Run the script in a consoles
+* Keep "main_pydpi.py" and "interface.py" together
+* Run "main_pydpi.py"
+* Select images, export folder, export format
+* Run the conversion
 
 ## Information to inquire
 * Desired DPI : 300 for printed documents
